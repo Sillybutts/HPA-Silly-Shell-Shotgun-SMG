@@ -1,6 +1,8 @@
 # HPA-Silly-Shell-Shotgun-SMG
 A Silly Shell SMG powered by compressed air. Cosmic Nomad HPA core/dump tank.
 
+https://www.youtube.com/watch?v=duaTlLghZCg
+
 The blaster is in a really good spot functionally and design-wise right now! Idk if I'll ever finish it myself due to time, so I've put the most up to date files (12-30-2025) on GitHub.
 
 All that needs to be done on the blaster:
